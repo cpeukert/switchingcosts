@@ -1,6 +1,6 @@
 # Determinants and heterogeneity of switching costs in IT outsourcing: estimates from firm-level data
 ## Peukert, Christian
-### European Journal of Information Systems, 2018, 28(3), 291-317.
+### European Journal of Information Systems, 2019, 28(3), 291-317.
 
 This repo contains code and data to reproduce the main results (Table 2, 3, 5) in the paper.
 
